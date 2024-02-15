@@ -1,0 +1,552 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="f61e69d1-e79f-4ccb-bd92-56a7cefcf1e4"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/scmp5u</alternateIdentifier>
+                <alternateIdentifier>f61e69d1-e79f-4ccb-bd92-56a7cefcf1e4</alternateIdentifier>
+                <alternateIdentifier>http://ipt.vertnet.org:8080/ipt/resource?r=dbg_chatfieldfarms_riparianrestoration</alternateIdentifier>
+        <title>Deer Creek Riparian Restoration Ecological Monitoring</title>
+            <creator>
+            <individualName>
+<givenName>Richard</givenName>                    <surName>Levy</surName>
+            </individualName>
+<organizationName>Denver Botanic Gardens</organizationName><positionName>Database Associate</positionName>            <address>
+<deliveryPoint>909 York Street</deliveryPoint><city>Denver</city><administrativeArea>Colorado</administrativeArea><postalCode>80206</postalCode><country>UNITED_STATES</country>            </address>
+<phone>7208653657</phone><electronicMailAddress>richard.levy@botanic.gardens.org</electronicMailAddress>            <userId directory="https://orcid.org/">0000-0002-4401-1380</userId>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Rebecca</givenName>                    <surName>Hufft</surName>
+            </individualName>
+<organizationName>Denver Botanic Gardens</organizationName><positionName>Associate Director of Applied Conservation</positionName>            <address>
+<deliveryPoint>909 York Street</deliveryPoint><city>Denver</city><administrativeArea>Colorado</administrativeArea><postalCode>80206</postalCode><country>UNITED_STATES</country>            </address>
+<phone>720-865-3597</phone><electronicMailAddress>rebecca.hufft@botanicgardens.org</electronicMailAddress>            <userId directory="https://orcid.org/">0000-0002-8404-2712</userId>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Margo</givenName>                    <surName>Paces</surName>
+            </individualName>
+<organizationName>Denver Botanic Gardens</organizationName><positionName>Herbarium Assistant</positionName>            <address>
+<deliveryPoint>909 York Street</deliveryPoint><city>Denver</city><administrativeArea>Colorado</administrativeArea><postalCode>80206</postalCode><country>UNITED_STATES</country>            </address>
+<electronicMailAddress>margo.paces@botanicgardens.org</electronicMailAddress>            <userId directory="https://orcid.org/">0000-0002-0221-4921</userId>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Richard</givenName>                    <surName>Levy</surName>
+            </individualName>
+<organizationName>Denver Botanic Gardens</organizationName><positionName>Database Associate</positionName>            <address>
+<deliveryPoint>909 York Street</deliveryPoint><city>Denver</city><administrativeArea>Colorado</administrativeArea><postalCode>80206</postalCode><country>UNITED_STATES</country>            </address>
+<phone>720-865-3657</phone><electronicMailAddress>richard.levy@botanicgardens.org</electronicMailAddress>            <userId directory="https://orcid.org/">0000-0002-4401-1380</userId>
+            </creator>
+            <metadataProvider>
+            <individualName>
+<givenName>Richard</givenName>                    <surName>Levy</surName>
+            </individualName>
+<organizationName>Denver Botanic Gardens</organizationName><positionName>Database Associate</positionName>            <address>
+<deliveryPoint>909 York Street</deliveryPoint><city>Denver</city><administrativeArea>Colorado</administrativeArea><postalCode>80206</postalCode><country>UNITED_STATES</country>            </address>
+<phone>720-865-3657</phone><electronicMailAddress>richard.levy@botanic.gardens.org</electronicMailAddress>            <userId directory="https://orcid.org/">0000-0002-4401-1380</userId>
+            </metadataProvider>
+            <associatedParty>
+            <individualName>
+<givenName>Rebecca</givenName>                    <surName>Hufft</surName>
+            </individualName>
+<organizationName>Denver Botanic Gardens</organizationName><positionName>Associate Director of Applied Conservation</positionName>            <address>
+<deliveryPoint>909 York Street</deliveryPoint><city>Denver</city><administrativeArea>Colorado</administrativeArea><postalCode>80206</postalCode><country>UNITED_STATES</country>            </address>
+<phone>720-865-3597</phone><electronicMailAddress>rebecca.hufft@botanicgardens.org</electronicMailAddress>            <userId directory="https://orcid.org/">0000-0002-8404-2712</userId>
+            <role>PRINCIPAL_INVESTIGATOR</role>
+            </associatedParty>
+            <associatedParty>
+            <individualName>
+<givenName>Margo</givenName>                    <surName>Paces</surName>
+            </individualName>
+<organizationName>Denver Botanic Gardens</organizationName><positionName>Herbarium Assistant</positionName>            <address>
+<deliveryPoint>909 York Street</deliveryPoint><city>Denver</city><administrativeArea>Colorado</administrativeArea><postalCode>80206</postalCode><country>UNITED_STATES</country>            </address>
+<electronicMailAddress>margo.paces@botanicgardens.org</electronicMailAddress>            <userId directory="https://orcid.org/">0000-0002-0221-4921</userId>
+            <role>CONTENT_PROVIDER</role>
+            </associatedParty>
+            <pubDate>
+                2020-03-03
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>Sampling transect data were recorded to monitor any changes in ground vegetation, canopy cover, water quality, and aquatic invertebrate community over the course of an ongoing restoration of the hydrologic conditions of the stream. Herbarium specimens were collected in previous surveys to document plant species richness in the areas described in this resource and are provided here for additional context.</para>
+            </abstract>
+                <keywordSet>
+                        <keyword>environmental monitoring</keyword>
+                        <keyword>riparian ecosystem</keyword>
+                        <keyword>environmental restoration</keyword>
+                        <keywordThesaurus>IRIS keyword thesaurus</keywordThesaurus>
+                </keywordSet>
+                <keywordSet>
+                        <keyword>Samplingevent</keyword>
+                        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+                </keywordSet>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <coverage>
+                    <geographicCoverage>
+                            <geographicDescription>Data were collected from 18 sites along Deer Creek, a stream that flows from west to east through urbanized montane foothills ecosystems in Jefferson County, Colorado, United States. The 4.67 kilometer section of stream studied here occurrs on the east slope of the Front Range mountain range, where is flows through Jefferson County Open Space Hildebrand Ranch Park and Denver Botanic Gardens Chatfield Farms, sites of historical ranching and historical and active agriculture.</geographicDescription>
+                            <boundingCoordinates>
+                                <westBoundingCoordinate>-105.136</westBoundingCoordinate>
+                                <eastBoundingCoordinate>-105.088</eastBoundingCoordinate>
+                                <northBoundingCoordinate>39.555</northBoundingCoordinate>
+                                <southBoundingCoordinate>39.544</southBoundingCoordinate>
+                            </boundingCoordinates>
+                    </geographicCoverage>
+                    <temporalCoverage>
+                            <rangeOfDates>
+                                <beginDate>
+                                    <calendarDate>                1981-06-24
+</calendarDate>
+                                </beginDate>
+                                <endDate>
+                                    <calendarDate>                1984-06-24
+</calendarDate>
+                                </endDate>
+                            </rangeOfDates>
+                    </temporalCoverage>
+                    <temporalCoverage>
+                            <rangeOfDates>
+                                <beginDate>
+                                    <calendarDate>                2014-05-08
+</calendarDate>
+                                </beginDate>
+                                <endDate>
+                                    <calendarDate>                2014-08-14
+</calendarDate>
+                                </endDate>
+                            </rangeOfDates>
+                    </temporalCoverage>
+                    <temporalCoverage>
+                            <rangeOfDates>
+                                <beginDate>
+                                    <calendarDate>                2015-04-28
+</calendarDate>
+                                </beginDate>
+                                <endDate>
+                                    <calendarDate>                2015-11-02
+</calendarDate>
+                                </endDate>
+                            </rangeOfDates>
+                    </temporalCoverage>
+                    <temporalCoverage>
+                            <rangeOfDates>
+                                <beginDate>
+                                    <calendarDate>                2016-06-08
+</calendarDate>
+                                </beginDate>
+                                <endDate>
+                                    <calendarDate>                2019-07-10
+</calendarDate>
+                                </endDate>
+                            </rangeOfDates>
+                    </temporalCoverage>
+                        <taxonomicCoverage>
+                                <generalTaxonomicCoverage>Angiosperms and gymnosperms are provided as occurrences, both as preserved specimens and observations. These originate from botanical surveys, ground vegetation, and canopy monitoring efforts.</generalTaxonomicCoverage>
+                                <taxonomicClassification>
+                                        <taxonRankName>Phylum</taxonRankName>
+                                    <taxonRankValue>Tracheophyta</taxonRankValue>
+                                        <commonName>Vascular Plants</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Bromus inermus</taxonRankValue>
+                                        <commonName>smooth brome</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Populus deltoides</taxonRankValue>
+                                        <commonName>eastern cottonwood</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Prunus virginiana</taxonRankValue>
+                                        <commonName>chokecherry</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Agropyron critatum</taxonRankValue>
+                                        <commonName>crested wheatgrass</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Genus</taxonRankName>
+                                    <taxonRankValue>Salix</taxonRankValue>
+                                        <commonName>willow</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Populus angustifolia</taxonRankValue>
+                                        <commonName>narrowleaf cottonwood</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Populus x acuminata</taxonRankValue>
+                                        <commonName>hybrid cottonwood</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Cirsium arvense</taxonRankValue>
+                                        <commonName>creeping thistle</commonName>
+                                </taxonomicClassification>
+                        </taxonomicCoverage>
+                        <taxonomicCoverage>
+                                <generalTaxonomicCoverage>Invertebrate animals are provided as observation based occurrence data. Invertebrate samples were collected as part of the aquatic macroinvertebrate surveys within the stream and sent to a contractor laboratory for identification and analysis.</generalTaxonomicCoverage>
+                                <taxonomicClassification>
+                                    <taxonRankValue>Baetis flavistriga</taxonRankValue>
+                                        <commonName>minnow mayfly</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                    <taxonRankValue>Cheumatopsyche</taxonRankValue>
+                                        <commonName>netspinning caddisflies</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                    <taxonRankValue>Crangonyx gracilis</taxonRankValue>
+                                        <commonName>northern lake crangonyctid</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                    <taxonRankValue>Hyalella azteca</taxonRankValue>
+                                        <commonName>amphipod</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                    <taxonRankValue>Tricorythodes explicatus</taxonRankValue>
+                                        <commonName>mayfly</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                    <taxonRankValue>Eiseniella tetraedra</taxonRankValue>
+                                        <commonName>earthworm</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Kingdom</taxonRankName>
+                                    <taxonRankValue>Animalia</taxonRankValue>
+                                        <commonName>animal</commonName>
+                                </taxonomicClassification>
+                        </taxonomicCoverage>
+            </coverage>
+            <purpose>
+                <para>Sampling transect data was recorded to monitor any changes in ground vegetation, canopy cover, water quality, and aquatic invertebrate community over the course of an ongoing restoration effort of the hydrologic conditions of the stream. Herbarium specimens were collected in previous surveys to document plant species richness in the areas described in this dataset and are provided here for additional context.</para>
+            </purpose>
+            <maintenance>
+                <description>
+                    <para>Dataset will be maintained and updated as more surveys are completed or more data are collected/curated likely on an annual or biennial basis.</para>
+                </description>
+                <maintenanceUpdateFrequency>irregular</maintenanceUpdateFrequency>
+            </maintenance>
+            <contact>
+            <individualName>
+<givenName>Richard</givenName>                    <surName>Levy</surName>
+            </individualName>
+<organizationName>Denver Botanic Gardens</organizationName><positionName>Database Associate</positionName>            <address>
+<deliveryPoint>909 York Street</deliveryPoint><city>Denver</city><administrativeArea>Colorado</administrativeArea><postalCode>80206</postalCode><country>UNITED_STATES</country>            </address>
+<phone>720-865-3657</phone><electronicMailAddress>richard.levy@botanicgardens.org</electronicMailAddress>            <userId directory="https://orcid.org/">0000-0002-4401-1380</userId>
+            </contact>
+            <methods>
+                    <methodStep>
+                        <description>
+                            <para>Measuring Ground Cover/Community Composition (Hufft et al 2019)
+
+1. Pull out the 25m tape in between two rebar posts. The line should be taut and as close to the ground as possible.
+
+2. Take photograph at origin of transect. Stand behind the post, face the endpoint, and take the picture with the post in the photo.
+
+3. Begin at the “0” end of the line, move at 0.25m intervals toward the end.
+
+4. At origin (0m), midpoint (12.5m), and end (25m), measure distance from transect to bank and bank height.
+
+5. 0.25m will be the starting point. Always stand on the same side (away from the stream) of the line.
+
+6. Drop a pin flag to the ground from a standard height of 1m next to the stream side of the tape. The pin should be vertical. The pin should be dropped from the same height every time. Do not guide the pin to the ground, let it fall freely.
+
+7. Once the pin flag is on the ground, record every species it intercepts. The first species it hits (the highest one/farthest from the ground) is the “Top canopy”. If no leaf, stem, or plant base is intercepted, record “NONE” in the “Top canopy” column. Record all additional species intercepted by the pin in the “Lower Canopy Layers” column. Record them in order from closest to the top canopy to farthest (highest to lowest). Record each species only once, even if it is intercepted multiple times. If species can’t be identified at current stage, flag the plant and record location on “Unidentified Species” datasheet and “Unidentified Species” section of the vegetation datasheet. Return later to identify or collect voucher specimen of same species from outside the transect.
+
+8. Record the ground surface the pin flag rests on. Options are litter, bare soil, rock (&gt;5mm diameter), standing dead vegetation, water, downed woody debris (logs/large branches), road/trail (paved or gravel trail).</para>
+                        </description>
+                    </methodStep>
+                    <methodStep>
+                        <description>
+                            <para>Measuring Soil Moisture (Hufft et al 2019)
+
+1. Beginning at the “0” end of the transect, measure the soil moisture on the right side of the tape at 1m intervals, starting at 1m.
+
+2. At each point, insert the soil moisture meter at the right side of the transect 20 cm deep into the soil.
+
+3. Record the percent volumetric soil moisture that appears on the screen.</para>
+                        </description>
+                    </methodStep>
+                    <methodStep>
+                        <description>
+                            <para>Measuring Tree Canopy Cover (Hufft et al 2019)
+
+1. Beginning at the “0” end of the transect, and starting at the 0.5m mark, measure the tree canopy cover every 0.5m. Stand on the side of the tape furthest from the creek.
+
+2. At each point, open the spherical densiometer.
+
+3. Hold the densiometer out so that the bubble in the corner is in the center of its circle, indicating that the instrument is level.
+
+4. Hold the densiometer about 12-18 inches away from you and low enough so you can see all 24 squares in the window.
+
+5. Imagine 4 dots at each corner of each of the 24 squares. Count the number of dots that in which a tree is visible.
+
+6. Additionally, record species of every tree that appears in the densiometer window.</para>
+                        </description>
+                    </methodStep>
+                    <methodStep>
+                        <description>
+                            <para>Recording additional species (Hufft et al 2019)
+
+1. After measuring for percent cover, use the meter stick as a guide to search the belt transect area for any species that were not recorded while measuring percent cover.
+
+2. Record additional species identified that are rooted within the 25m x 2m belt. Collect a voucher specimen if unable to identify in the field.</para>
+                        </description>
+                    </methodStep>
+                    <methodStep>
+                        <description>
+                            <para>Measuring abiotic water quality characteristics for lab analysis (Hufft et al 2019)
+
+1. Start at thalweg (deepest point) adjacent to transect origin.
+
+2. Collect three water samples in official Colorado Department of Public Health &amp; Environment (CDPHE) bottles:
+a. Nitrate/Nitrite (250 ml)
+b. Total Nitrogen (125 ml)
+c. E. coli (125 ml)
+3. Fill each bottle to the max fill line.
+
+4. Attach supplied CDPHE labels.
+
+5. Fill out CDPHE Request for Analytical Services form. Each transect needs its own testing form.
+
+6. Each water quality test will have its own specific bottle (3 per transect for E. coli, nitrate/nitrite, and total nitrogen)
+a. Nutrient bottles contain an acid for preservation, so do not dump or spill bottles.
+
+7. Take water samples at the thalweg origin, or if stream is too deep for wading, at the deepest point possible. Make sure to collect probe data and water samples at the same place and record this location on the datasheet.
+
+8. Samples are TIME SENSITIVE. Samples must be dropped off within 8 hours of sampling. No sample drop-offs on Fridays. Water analyses are conducted by the Colorado Department of Public Health and Environment (CDPHE). Samples are time sensitive. Please coordinate a time to drop off samples ahead of time.</para>
+                        </description>
+                    </methodStep>
+                    <methodStep>
+                        <description>
+                            <para>Measuring abiotic water quality characteristics in the field (Hufft et al 2019)
+
+1. Start at thalweg adjacent to vegetation transect origin. If thalweg is too deep to wade, take measurement at the deepest point possible and record this point on datasheet.
+
+2. For each probe, make sure to not submerge probes past the point where the storage caps seal and swish the probe in water to remove air bubbles and allow reading to stabilize before recording.
+
+3. Using the appropriate probes, collect the following data and record on data sheet:
+a. Temperature (°C)- Use pH probe’s thermometer.
+b. pH
+i. Probe should not be allowed to dry out. Store in pH 4 standard (or storage solution if available).
+ii. If probe does dry out, must soak in standard or storage solution for 1 hour before use.
+c. Total Dissolved Solids (TDS)
+d. Dissolved Oxygen (DO, mg/L)
+i. If the probe has not been used in 7 days, requires 3 minutes to polarize. Turn probe on and wait 3 minutes before testing.
+ii. Sponge in storage cap must always be moistened (but not soaked) with DI or RO water.
+e. Electrical Conductivity (EC)
+f. Flow
+i. Beginning at thalweg at origin, find a section of reach with uniform bottom and flow.
+ii. If thalweg is too deep to wade, take measurement at the deepest point possible at the origin and record location on datasheet.
+iii. Plug cord into back of white unit, zero should appear on screen.
+iv. To zero counter, switch position up.
+v. To pause measurements, put switch in middle.
+vi. To start measuring, put switch down.
+vii. Use timer to measure flow for 60 seconds at 60% of stream depth.
+viii. Once back in the office, to calculate surface velocity (m/s), convert the flowmeter readout using the following equation: V(c/m)=(0.000854C)+0.05
+g. Rinse all probes with RO water after use and before putting on cap to avoid contamination.</para>
+                        </description>
+                    </methodStep>
+                    <methodStep>
+                        <description>
+                            <para>Measuring Stream Bank Characteristics (Hufft et al 2019)
+
+1. Total Bank Height: Distance from streambed at edge of bank to top of bank.
+
+2. Surface to bank height: Distance from the water surface level to top of bank.
+
+3. Distance to bank from Origin: Distance from the origin rebar to the edge of the adjacent stream bank.
+
+4. If water is too deep at the thalweg to wade in, take measurements at the deepest point possible adjacent to the origin and record location on datasheet. This is especially important for stream reaches with dams.</para>
+                        </description>
+                    </methodStep>
+                    <methodStep>
+                        <description>
+                            <para>Collecting samples to measure aquatic macro invertebrate community diversity (Hufft et al 2019)
+
+1. Since the water is moving when we sample, we use the kicknetting method.
+2. Start at thalweg at 20 m mark downstream from origin. Start downstream and move upstream toward origin.
+
+3. Conduct kicknetting for 1 minute every 5 meters,
+for 5 sampling bouts moving upstream.
+
+4. 5 sampling bouts should be conducted for each transects.
+a. However, samples should be 5m apart, so if large parts of the stream are dry, only take as many samples as the stream allows.
+5. At each sampling bout:
+a. Disturb area 1 m2 upstream of net, using heel or toe to dislodge the upper layer of cobble/gravel and scrape underlying bed.
+b. Pick up larger substrate and rub by hand to remove attached organisms.
+c. If the water is slow moving, use your hands or feet to push what has been kicked up into the net.
+d. Exclude specimens clinging to the outside of nets.
+
+6. Place contents of net into the mesh bucket.
+a. Rinse outside of net to move sediment and specimens inside the net to one corner.
+b. Flip net inside out in bucket and rinse down outside of net with more water to wash all contents into bucket.
+c. To avoid contamination of the sample, do not pour water into the side of the net with the specimens. Only pour water on the outside of the net.
+d. Continue adding contents of net into mesh bucket for the length of the transect.
+
+7. Scoop specimens into 1L plastic rectangular Nalgene sampling jar with hand. It may be necessary to place the mesh bucket in the stream and swirl to get specimens to one side.
+a. Release any fish, amphibians, reptiles, or crayfish back into stream, but record their presence on the data sheet.
+
+8. Fill jar with no more than 50% of sample material from the stream. Use more than one jar per sample if necessary.
+a. Add ethanol to the bottles to create a 50:50 sample to ethanol ratio.
+b. In 2018 we used an average of 2-3 bottles per sample site (max 5 at TSP and dammed sites) and roughly 2.5 750ml of ethanol per day.
+
+9. Pick out and scrape off larger rocks in the bucket to remove any macroinvertebrates clinging to them. Smaller gravel can be added to bottle.
+
+10. Properly label each bottle using a marker that is not alcohol-soluble. Check naming conventions file to make sure samples are labelled consistently from year to year.
+
+11. Follow the instructions below for proper storage and sample drop off for identification.
+
+12. Backwash the net with stream water before collecting samples from the next site.</para>
+                        </description>
+                    </methodStep>
+                    <sampling>
+                        <studyExtent>
+                            <description>
+                                <para>Data were collected in 2015 through 2019. In 2015 a botanical survey was conducted to record and voucher plant species occurring in the area of interest for restoration. Twelve monitoring sites were established in 2016 and six were added in 2018 for a total of eighteen sites. Each site has a permanent 25 meter belt transect that was surveyed once per year during the summer months. Stream and water conditions in points of stream adjacent to transects were sampled once per year, as were aquatic macroinvertebrates. Specimens housed in the Kathryn Kalmbach Herbarium (KHD) collected during previous surveys of the area are also included in the data resource. These surveys were conducted as inventories to document species richness of the area.</para>
+                            </description>
+                        </studyExtent>
+                        <samplingDescription>
+                            <para>All sites were sampled once per year, during the growing season when vegetation was mature enough to make proper species identifications.
+
+For the first two years of monitoring (2016-2017), twelve 25 meter transects were installed to measure gound and canopy cover. For ground cover, every 0.25 meters was sampled via the point intercept method. Ground vegetation species were recorded as top canopy (1st hit) or lower canopy (2nd hits) and presented here as occurrences based on human observation. The ground surface type was recorded when no vegetation was present, and is provided in the extendedMeasurementOrFact extension within this resource. For canopy cover, every 0.5 meters was sampled. Canopy species observed through a GRS densiometer were recorded and are provided here as occurrences based on human observation. Any plant species observed within 1 meter of the transect, that were not recorded as part of the point intercept sampling, were also recorded as observation occurrences. Voucher specimens of plants were taken when identification to species was not confident or possible in the field. Sections of stream directly adjacent to the vegetation transects were sampled for stream conditions and water quality measurements, including nitrogen levels, E. coli content, stream velocity, stream depth, dissolved oxygen, water temperature, among others. Water samples were sent to a contractor for measurments. Aquatic macroinvertebrate communities were also sampled within the stream and sent to a contractor for sorting and identification.
+
+In 2018, six additional transects were added upstream of the temporary installed dam-like structures. Several additional measurements were also recorded along the vegetation transects: soil moisture percentage was measured every 1.0 meters, canopy cover percentage was measured with a spherical densiometer every 0.5 meters, and ground surface type, regardless of the presence of vegetation, was recorded every 0.25 meters. These measurements are provided within the extendedMesurementOrFact extension of this resource.
+
+Voucher specimens from previous botanic surveys, aimed at documenting species richness of the area, are also included in this resource as occurrences based on preserved specimens. Specimen occurrence data were downloaded from the Global Biodiversity Information Facility (GBIF 2019) and subsequently limited to those falling within the immediate vicinity of the riparian zone of Deer Creek (within 0.0005 degrees of Deer Creek) (USGS 2018).</para>
+                        </samplingDescription>
+                    </sampling>
+                    <qualityControl>
+                        <description>
+                            <para>Raw data from sampling transects were checked upon transcription into digital format. Once data were submitted into a relational database, a random sample of records was produced and checked against the raw data. During ecological surveys herbarium voucher specimens were collected when species identification could not be confidently determined in the field.</para>
+                        </description>
+                    </qualityControl>
+            </methods>
+
+            <project id="4597f9d5-a007-4958-bcd3-36656583ce3e">
+                <title>Chatfield Farms Riparian Restoration</title>
+                    <personnel>
+            <individualName>
+<givenName>Carla</givenName>                    <surName>DeMasters</surName>
+            </individualName>
+            <role>CONTENT_PROVIDER</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Rebecca</givenName>                    <surName>Hufft</surName>
+            </individualName>
+            <role>PRINCIPAL_INVESTIGATOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Richard</givenName>                    <surName>Levy</surName>
+            </individualName>
+            <userId directory="https://orcid.org/">0000-0002-4401-1380</userId>
+            <role>ORIGINATOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Margo</givenName>                    <surName>Paces</surName>
+            </individualName>
+            <userId directory="https://orcid.org/">0000-0002-0221-4921</userId>
+            <role>CONTENT_PROVIDER</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Meghan</givenName>                    <surName>McGill</surName>
+            </individualName>
+            <role>CONTENT_PROVIDER</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Janet</givenName>                    <surName>Wingate</surName>
+            </individualName>
+            <role>CONTENT_PROVIDER</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Melissa</givenName>                    <surName>Islam</surName>
+            </individualName>
+            <userId directory="https://orcid.org/">0000-0001-8275-0320</userId>
+            <role>CONTENT_PROVIDER</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Katherine</givenName>                    <surName>Fu</surName>
+            </individualName>
+            <userId directory="https://orcid.org/">0000-0002-5639-5692</userId>
+            <role>CONTENT_PROVIDER</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Julia</givenName>                    <surName>Clark</surName>
+            </individualName>
+            <role>CONTENT_PROVIDER</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Laura</givenName>                    <surName>Vary</surName>
+            </individualName>
+            <userId directory="https://orcid.org/">0000-0002-1933-8517</userId>
+            <role>CONTENT_PROVIDER</role>
+                    </personnel>
+                <abstract>
+                    <para>In 2016 Denver Botanic Gardens initiated long term ecological restoration of Deer Creek in southern Jefferson County, Colorado, United States. A section of Deer Creek runs from west to east through an open space park and Denver Botanic Gardens Chatfield Farms property. The creek and its surrounding area had been subject to human disturbance such as channelization, livestock grazing, hay production, and urbanization dating back as far as the mid-19th century. Such disturbances have contributed to an overwhelming dominance of non-native plant species in the understory of the riparian area along Deer Creek, as well as the presence of non-native tree species within the overstory. The hydrology of the creek had been modified with the effect of increased flow energy, runoff volume and intensity, and deepened, undercut channels. The restoration project saw the installation of small channel structures that function like beaver dams to facilitate overbank flows to move water from the stream channel and distribute it across the floodplain. We hypothesize these techniques will restore the hydrologic conditions suitable for the regeneration of native riparian plant species through active and passive measures.
+
+To track progress, we established permanent transects to monitor the ground vegetation community, canopy cover, stream conditions, water quality, and aquatic macroinvertebrate diversity. The resource provided here is an assemblage of data recorded through such monitoring efforts. Presented as a sampling event dataset, using the Darwin Core standard and relevant extensions, our aim is to provide records for all data, samples, and specimens pertaining to the restoration project’s progress.</para>
+                </abstract>
+                <funding>
+                    <para></para>
+                </funding>
+                    <studyAreaDescription>
+                        <descriptor name="generic" citableClassificationSystem="false">
+                            <descriptorValue>The study area lies within the Deer Creek Sub Watershed (HUC 12 101900020702) which lies within the Upper South Platte River Watershed (HUC 8 10190002) This area, known as the Chatfield Basin, is located at the base of the foothills of the Eastern Slope of the Rockies at the intersection of the Southern Rockies, High Plains and Southwestern Tablelands Level III Ecoregions (Chapman et al. 2006). Deer Creek is a stream that flows from west to east, in southern Jefferson County, Colorado. The 4.7 km section of stream (and adjacent area) that is being monitored is located just west of Chatfield Reservoir. Monitoring sites are located within the Hildebrand Ranch Park (Jefferson County Open Space) and Denver Botanic Gardens Chatfield Farms. Hydrological manipulation with the aim of restoring natural stream conditions is being conducted only within the Denver Botanic Gardens Chatifeld Farms property, at three distinct sites within the streambed (locationID = Deercreek04, DeerCreek05, DeerCreek06). In total 18 ecological monitoring sites have been established along this section of the creek. The habitat is characterized by historical ranching, previous and ongoing agricultural practices, hydroligical manipulaiton, an undestory dominated by non-native plant speceis, and a tree canopy consisting primarily of cottonwood (Populus) species in the riparian zone. During the first four years of ecological monitoring (2016-2019), the region&apos;s temperate climate experienced an average of 529 mm of precipitaiton and a mean temperature of 10.25 degrees Celsius, with a mean minimum and maximum temperature of 2.275 and 183.225 degrees Celsius, respectively (PRISM).</descriptorValue>
+                        </descriptor>
+                    </studyAreaDescription>
+                    <designDescription>
+                        <description>
+                            <para>Temporary structures designed to mimic beaver dams were installed in three locations within the Deer Creek stream bed (locationID = DeerCreek04, DeerCreek05, DeerCreek06) to facilitate over-bank flows and wetting of larger floodplain areas and to restore hydrologic conditions suitable for the regeneration of cottonwoods and willows. Monitoring of these three locations, and fifteen additional downstream and upstream sites was designed to document and describe the ground vegetation community, soil moisture conditions, and canopy cover. Belt transects at each site were 25 meters long and sampled via the point-intercept method. Reaches of the stream adjacent to the transects were sampled for water quality and aquatic macroinvertebrate community diversity.</para>
+                        </description>
+                    </designDescription>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2024-02-14T22:50:25Z</dateStamp>
+                <citation>Levy R, Hufft R, Paces M (2020). Deer Creek Riparian Restoration Ecological Monitoring. Version 1.6. Kathryn Kalmbach Herbarium (Denver Botanic Gardens). Sampling event dataset https://doi.org/10.15468/scmp5u accessed via GBIF.org on 2024-02-14.</citation>
+                    <bibliography>
+                <citation identifier="dx.doi.org/10.17504/protocols.io.9j3h4qn">Rebecca Hufft, Margo Paces, Meghan McGill, Richard A. Levy (2019). Aquatic Monitoring Protocol for measuring and collecting ecological data. protocols.io
+dx.doi.org/10.17504/protocols.io.9j3h4qn</citation>
+                <citation identifier="dx.doi.org/10.17504/protocols.io.4jmguk6">Rebecca Hufft, Christina Alba, Amy Sahud (2019). Vegetation Monitoring Protocol for measuring and collecting ecological data. protocols.io
+dx.doi.org/10.17504/protocols.io.4jmguk6</citation>
+                <citation identifier="dx.doi.org/10.17504/protocols.io.4f4gtqw">Christina Alba, Melissa Islam (2019). Field Collecting Protocol for Vascular Plants. Denver Botanic Gardens. Kathryn Kalmbach Herbarium of Vascular Plants. protocols.io
+dx.doi.org/10.17504/protocols.io.4f4gtqw</citation>
+                <citation identifier="dx.doi.org/10.17504/protocols.io.4j5guq6">Richard A. Levy, Amy Sahud, Christina Alba, Michelle DePrenger-Levin, Rebecca Hufft (2019). Denver Botanic Gardens Research and Conservation Field Work Metadata Dictionary. protocols.io
+dx.doi.org/10.17504/protocols.io.4j5guq6</citation>
+                <citation identifier="https://doi.org/10.15468/dl.ixsnvc">GBIF (2019)GBIF Occurrence Download. GBIF. Release date: 2019-11-19. URL: https://doi.org/10.15468/dl.ixsnvc</citation>
+                <citation identifier="https://catalog.data.gov/dataset/usgs-national-hydrography-dataset-nhd-best-resolution-hu8-9-20171219-for-hu-8-subbasin-shapefil0aa46">U.S. Geological Survey (2018). USGS National Hydrography Dataset (NHD) Best Resolution HU8-9 20180305 for HU-8 Subbasin Shapefile Model Version 2.2.1. 2.2.1. U.S. Geological Survey, Department of the Interior. Release date: 2018-3-08. URL: https://catalog.data.gov/dataset/usgs-national-hydrography-dataset-nhd-best-resolution-hu8-9-20171219-for-hu-8-subbasin-shapefil0aa46</citation>
+                <citation>Chapman, S.S., G.E. Griffith, J.M. Omernik, A.B. Price, J. Freeouf, and D.L. Schrupp. 2006. Ecoregions of Colorado. (2 sided color poster with map, descriptive text, summary tables, and photographs). U.S. Geological Survey, Reston, VA. Scale 1:1,200,000.</citation>
+                    </bibliography>
+                    <resourceLogoUrl>http://ipt.vertnet.org:8080/ipt/logo.do?r=dbg_chatfieldfarms_riparianrestoration</resourceLogoUrl>
+                        <collection>
+                            <parentCollectionIdentifier>http://biocol.org/urn:lsid:biocol.org:col:15415</parentCollectionIdentifier>
+                            <collectionIdentifier>http://grscicoll.org/institutional-collection/kathryn-kalmbach-herbarium</collectionIdentifier>
+                            <collectionName>Kathryn Kalmbach Herbarium of Vascular Plants</collectionName>
+                        </collection>
+                        <specimenPreservationMethod>DRIED_AND_PRESSED</specimenPreservationMethod>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

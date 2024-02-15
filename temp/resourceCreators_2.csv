@@ -1,0 +1,3 @@
+﻿ObjectID,GlobalID,First Name,Last Name,Position,organization_creator,address_creator,city_creator,stateProvince_creator,country_creator,postalCode_creator,Phone,email_creator,personnelDirectory_creator,ORCID,ParentGlobalID,CreationDate,Creator,EditDate,Editor
+1,c1a12f5f-5ae2-4bb7-8ea5-dcebe37744ae,Richard,Levy,Scientific Data Manager,,,,,,,,richard.levy@botanicgardens.org,,https://orcid.org/0000-0002-4401-1380,95a27c8c-b9f0-4168-8a6e-2f6c00f5ca46,2/14/2024 7:38:41 PM,ricklevy,2/14/2024 7:38:41 PM,ricklevy
+2,a59bef50-ce5c-4511-897c-c7254ed972f3,Christina,Alba,Associate Research Scientist,,,,,,,,,,sdfasdfsdaf,95a27c8c-b9f0-4168-8a6e-2f6c00f5ca46,2/14/2024 7:38:41 PM,ricklevy,2/14/2024 7:38:41 PM,ricklevy

@@ -1,0 +1,4 @@
+﻿ObjectID,GlobalID,Method Type,Curatorial Unit Type,Between (minimum),Between (maximum),Count,+/-,ParentGlobalID,CreationDate,Creator,EditDate,Editor
+1,e89c1cc7-ec4d-4686-8d0f-0553454cc008,countRange,sheets,100,150,,,95a27c8c-b9f0-4168-8a6e-2f6c00f5ca46,2/14/2024 7:38:41 PM,ricklevy,2/14/2024 7:38:41 PM,ricklevy
+2,3343cdb6-9870-4ddc-8920-f284f454d70a,countRange,boxes,50,70,,,95a27c8c-b9f0-4168-8a6e-2f6c00f5ca46,2/14/2024 7:38:41 PM,ricklevy,2/14/2024 7:38:41 PM,ricklevy
+3,e298d20c-dd85-4eb0-8dcf-5165cf0fe13e,countWithUncertainty,envelopes,,,75,15,95a27c8c-b9f0-4168-8a6e-2f6c00f5ca46,2/14/2024 7:38:41 PM,ricklevy,2/14/2024 7:38:41 PM,ricklevy
